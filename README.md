@@ -18,7 +18,7 @@ Ensure you have the required runtime environment installed (NODE).
 ### Execution
 Clone the repository and run:
 ```bash
-git clone https://github.com/VARSHAN69/go-cron-v244.git
+git clone https://github.com/VarshuAi/go-cron-v244.git
 cd go-cron-v244
 ```
 Run the master script or compile the executable entry point.
