@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Lightweight system thread runner executing timed scripts. [Variant 244 using NODE with Solarized_Light theme]
+  name: go-cron-v244 version: 1.0 type: Repository author: VarshuAi description: >   Lightweight system thread runner executing timed scripts. [Variant 244 using NODE with Solarized_Light theme] primary_tech: JavaScript
 primary_tech: JavaScript
 ```
 
